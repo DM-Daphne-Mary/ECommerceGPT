@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,Brand,Price,Description,Rating,AverageRating,PositiveReviews,DecisionScore
+93,Apple Smartwatch 3,Smartwatch,Apple,9445,Smartwatch by Apple suitable for everyday use with quality performance.,3.8,4.4,90.0,106.0
+46,Realme Mobile 1,Mobile,Realme,5884,Mobile by Realme suitable for everyday use with quality performance.,3.8,4.4,90.0,106.0
+2,Lenovo Laptop 2,Laptop,Lenovo,72664,Laptop by Lenovo suitable for everyday use with quality performance.,3.8,4.3,80.0,102.0
+32,Apple Mobile 2,Mobile,Apple,40665,Mobile by Apple suitable for everyday use with quality performance.,4.5,4.2,90.0,102.0
+92,Apple Smartwatch 2,Smartwatch,Apple,24383,Smartwatch by Apple suitable for everyday use with quality performance.,4.2,4.2,90.0,102.0
